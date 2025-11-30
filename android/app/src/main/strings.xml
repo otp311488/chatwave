@@ -1,0 +1,5 @@
+<resources>
+    <string name="call_channel_id">call_channel</string>
+    <string name="call_channel_name">Incoming Calls</string>
+    <string name="call_channel_description">Notifications for incoming calls</string>
+</resources>

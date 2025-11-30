@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042729237771",
+    "project_id": "invvesta-d41bc",
+    "storage_bucket": "invvesta-d41bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042729237771:android:75e86acd0901896e51b60e",
+        "android_client_info": {
+          "package_name": "com.flutterapplication36"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-bzUjKJFdCukdHYNwfldI_ug0fX0KO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
